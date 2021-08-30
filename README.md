@@ -11,7 +11,7 @@ Este conteúdo foi realizado no curso da plataforma Alura : "Estatística com Py
   - Identificar características de uma distribuição, como a assimetria e sua direção a partir da relação entre as medidas de tendência central.
 
 - Analisando os tipos de dados e como classificam-se:
-  -Identificação de variáveis qualitativas e quantitativas e suas divisões
+  - Identificação de variáveis qualitativas e quantitativas e suas divisões
 
 - Como é uma distribuição de frequência:
   - Criando uma distribuição de frequências com `value_counts()`
