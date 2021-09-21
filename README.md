@@ -2,8 +2,6 @@
 
 Fonte de dados : PNAD do IBGE
 
-As conclusões do conteúdo "Análise descritiva" são apenas de minha autoria.
-
 
 ## Conteúdo estudado neste notebook:
   
